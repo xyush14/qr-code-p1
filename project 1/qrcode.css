@@ -1,0 +1,26 @@
+
+.container{
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    
+}
+.qr img{
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    top: 40px;
+    left: 35%;;
+    align-items: center;
+    height: 25%;
+    width: 25%;
+}
+.text{
+    font-size: 16px;text-align: center;
+   color: black;
+}
+.text h2{
+    font-size: 26px;
+    font-weight: bold;
+}
